@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+This Website is dedicated to spreading research related to Cyber Defense.
